@@ -37,3 +37,16 @@
     position: absolute;
     background: url(https://awilmeth98.github.io/skins/bumper-custom.png) no-repeat;
 }
+
+.ds4 .bumper.pressed {
+    opacity: 1;
+}
+
+.ds4 .bumper.left {
+    float: left;
+}
+
+.ds4 .bumper.right {
+    float: right;
+    transform: rotateY(180deg);
+}
