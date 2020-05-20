@@ -29,4 +29,11 @@
     background: url(https://awilmeth98.github.io/skins/sticks-custom.png);
 }
 
+.ds4 .bumper {
+    background: url(https://awilmeth98.github.io/skins/bumper-custom.png) no-repeat;
+}
 
+.ds4 .bumpers {
+    position: absolute;
+    background: url(https://awilmeth98.github.io/skins/bumper-custom.png) no-repeat;
+}
